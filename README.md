@@ -17,3 +17,12 @@ Via the CLI, execute `create-trello-webhook` with the following arguments:
 ```bash
 $ create-trello-webhook KEY TOKEN DESCRIPTION CALLBACK_URL MODEL_ID
 ```
+
+If the webhook is successfully created, its ID will be logged for your convenience.
+
+## Related
+
+Check out my other Trello packages:
+
+- [delete-trello-webhook](https://github.com/lukehorvat/delete-trello-webhook)
+- [get-trello-board](https://github.com/lukehorvat/get-trello-board)
