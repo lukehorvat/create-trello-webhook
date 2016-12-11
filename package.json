@@ -1,6 +1,6 @@
 {
   "name": "create-trello-webhook",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easily create a Trello webhook.",
   "author": "Luke Horvat",
   "license": "MIT",
