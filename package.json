@@ -27,7 +27,8 @@
     "webhook",
     "webhooks",
     "create",
-    "register"
+    "register",
+    "api"
   ],
   "babel": {
     "presets": [
