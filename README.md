@@ -25,4 +25,5 @@ If the webhook is successfully created, its ID will be logged for your convenien
 Check out my other Trello packages:
 
 - [delete-trello-webhook](https://github.com/lukehorvat/delete-trello-webhook)
+- [verify-trello-webhook](https://github.com/lukehorvat/verify-trello-webhook)
 - [get-trello-board](https://github.com/lukehorvat/get-trello-board)
